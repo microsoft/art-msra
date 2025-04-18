@@ -1,8 +1,6 @@
 <h1 align="center">ART: Anonymous Region Transformer for<br>Variable Multi-Layer Transparent Image Generation</h1>
 <p align="center">
   <a href="https://arxiv.org/abs/2502.18364"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
-  <a href='https://art-msra.github.io'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
-  <a href='https://huggingface.co/ART-Release/ART_v1.0'><img src='https://img.shields.io/badge/Model-Huggingface-yellow?logo=huggingface&logoColor=yellow' alt='Model'></a>
 
 
 <p align="center"><img src="assets/teaser.png" width="100%"></p>
