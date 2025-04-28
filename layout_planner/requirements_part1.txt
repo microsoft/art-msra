@@ -15,4 +15,4 @@ datasets
 skia-python
 colorama
 opencv-python
-deepspeed==0.14.2
+deepspeed==0.15.1
