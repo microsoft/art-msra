@@ -1,7 +1,7 @@
 accelerate==0.27.2
 click>=8.0.4,<9
 datasets>=2.10.0,<3
-transformers==4.39.1
+transformers==4.52.1
 langchain>=0.0.139
 wandb
 ninja
