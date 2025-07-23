@@ -15,7 +15,7 @@
 
 ## 🛑 Important Notice (updated 2025/07/23)
 
-This repository previously contained code and pretrained model weights for generating multi-layer transparent images using a global text prompt and anonymous region layout. However, because the model was trained on data later determined to be illegally sourced, we have removed the model weights and inference checkpoints from this repository, along with all associated download links. If you have any questions, please contact the original authors through official channels.
+This repository previously contained code and pretrained model weights for generating multi-layer transparent images using a global text prompt and anonymous region layout. However, since the model was trained using data that may have come from illegal sources, we have removed the model weights and inference checkpoints from this repository, along with all associated download links. If you have any questions, please contact the original authors through official channels.
 
 As a result:
 
